@@ -1,0 +1,4 @@
+# pacman
+My own take on the pacman game now called vaxman. 
+"Vaxman" in C++ with QT. This is an implemetation of a different take on pacman for the Electronic Arts Software Engineering Virtual Software Engineering Internship Experience. The game is made by this fello here -> https://github.com/dzui42unit/pacman 
+Vaxmans changes on pacman: Vaxman can kill a ghost when it comes into contact with it and this does not kill Vaxman. Every ghost that has yet not been killed multiplies itself every 30 seconds. To win the game Vax-Man must collect all the yellow dots before the population of ghosts grows to 2 times its original population.
